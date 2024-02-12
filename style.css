@@ -1,7 +1,6 @@
 *{
     margin: 0;
     font-family: Arial;
-    border: border-box;
 }
 
 /*Navbar*/
@@ -274,4 +273,5 @@ ul a{
 .copyright{
     padding-top: 5px;
 }
+
 
